@@ -1,0 +1,151 @@
+name,age,sex,city,state,zip_code,common_issue,allergies,current_medications
+Emerson Garcia,43,Male,Denver,CO,80202,Headache/Pain,Latex,Atorvastatin
+Riley Rodriguez,79,Prefer not to say,Atlanta,GA,30303,Headache/Pain,Aspirin,None
+Jordan Jones,46,Other,Miami,FL,33130,Other,Peanuts,None
+Alex Rodriguez,33,Other,Phoenix,AZ,85004,Fever/Cold,Latex,Metformin
+Morgan Davis,78,Female,Denver,CO,80202,Headache/Pain,Latex,Lisinopril
+Rowan Martinez,70,Female,Dallas,TX,75201,Minor injury,Peanuts,Metformin
+Morgan Davis,35,Other,Dallas,TX,75201,Other,Sulfa,Atorvastatin
+Emerson Brown,80,Other,Seattle,WA,98101,Headache/Pain,Penicillin,Metformin
+Quinn Lopez,30,Prefer not to say,Miami,FL,33130,Headache/Pain,None,Metformin
+Avery Brown,76,Female,Atlanta,GA,30303,Minor injury,None,Omeprazole
+Quinn Jones,44,Female,Denver,CO,80202,Other,Penicillin,Atorvastatin
+Quinn Hernandez,36,Female,Boston,MA,02108,Eye problem,Penicillin,Atorvastatin
+Riley Brown,21,Male,Atlanta,GA,30303,Ear/Nose/Throat,Latex,Cetirizine
+Riley Rodriguez,24,Male,Chicago,IL,60601,Other,None,Albuterol
+Sage Anderson,64,Female,Dallas,TX,75201,Ear/Nose/Throat,Latex,None
+Reese Anderson,21,Female,San Diego,CA,92101,Stomach issue,Sulfa,Albuterol
+Sage Anderson,27,Female,Dallas,TX,75201,Eye problem,None,Lisinopril
+Cameron Martin,59,Other,Atlanta,GA,30303,Fever/Cold,Sulfa,Atorvastatin
+Emerson Brown,32,Male,New York,NY,10001,Ear/Nose/Throat,Sulfa,Cetirizine
+Drew Wilson,30,Prefer not to say,Miami,FL,33130,Fever/Cold,Peanuts,Lisinopril
+Jordan Williams,28,Female,Miami,FL,33130,Headache/Pain,Aspirin,Lisinopril
+Taylor Martin,60,Female,San Diego,CA,92101,Stomach issue,Aspirin,Albuterol
+Reese Lee,57,Prefer not to say,Chicago,IL,60601,Other,Penicillin,Lisinopril
+Quinn Brown,62,Prefer not to say,Miami,FL,33130,Fever/Cold,Latex,Lisinopril
+Harper Lee,21,Prefer not to say,Phoenix,AZ,85004,Fever/Cold,Ibuprofen,Omeprazole
+Skyler Lopez,18,Male,Atlanta,GA,30303,Stomach issue,None,Lisinopril
+Jordan Moore,45,Other,Chicago,IL,60601,Headache/Pain,Penicillin,Cetirizine
+Skyler Martin,28,Female,Atlanta,GA,30303,Minor injury,Ibuprofen,None
+Rowan Wilson,80,Other,Atlanta,GA,30303,Ear/Nose/Throat,Aspirin,Atorvastatin
+Parker Wilson,32,Prefer not to say,Dallas,TX,75201,Medication refill,Latex,Albuterol
+Taylor Davis,68,Female,Atlanta,GA,30303,Fever/Cold,Penicillin,Omeprazole
+Jamie Martinez,59,Female,Seattle,WA,98101,Stomach issue,Penicillin,Lisinopril
+Harper Davis,82,Prefer not to say,Phoenix,AZ,85004,Minor injury,Sulfa,None
+Jordan Hernandez,72,Other,Miami,FL,33130,Stomach issue,Peanuts,None
+Alex Hernandez,39,Other,Phoenix,AZ,85004,Headache/Pain,None,Metformin
+Quinn Wilson,69,Female,Dallas,TX,75201,Fever/Cold,Ibuprofen,Cetirizine
+Skyler Garcia,27,Female,Boston,MA,02108,Ear/Nose/Throat,Aspirin,Cetirizine
+Casey Davis,31,Male,Denver,CO,80202,Eye problem,Latex,Lisinopril
+Riley Thomas,77,Other,Dallas,TX,75201,Headache/Pain,Aspirin,Albuterol
+Casey Anderson,26,Other,Denver,CO,80202,Fever/Cold,Aspirin,Cetirizine
+Taylor Lopez,82,Female,New York,NY,10001,Medication refill,None,None
+Reese Williams,29,Other,Denver,CO,80202,Other,Aspirin,Albuterol
+Rowan Martin,42,Prefer not to say,Chicago,IL,60601,Other,Penicillin,None
+Morgan Hernandez,28,Male,Miami,FL,33130,Medication refill,Sulfa,Atorvastatin
+Cameron Garcia,64,Prefer not to say,San Diego,CA,92101,Stomach issue,Aspirin,Cetirizine
+Taylor Hernandez,26,Prefer not to say,New York,NY,10001,Stomach issue,Peanuts,Cetirizine
+Casey Hernandez,28,Male,New York,NY,10001,Stomach issue,Penicillin,Atorvastatin
+Reese Jackson,66,Prefer not to say,Dallas,TX,75201,Other,None,Albuterol
+Kendall Lopez,20,Prefer not to say,Phoenix,AZ,85004,Ear/Nose/Throat,Peanuts,Omeprazole
+Avery Davis,35,Male,Miami,FL,33130,Skin problem,Latex,Omeprazole
+Kendall Johnson,61,Male,San Diego,CA,92101,Eye problem,Penicillin,Lisinopril
+Riley Anderson,23,Other,New York,NY,10001,Ear/Nose/Throat,Sulfa,Atorvastatin
+Rowan Davis,48,Prefer not to say,Atlanta,GA,30303,Medication refill,Aspirin,Lisinopril
+Devin Anderson,77,Prefer not to say,Denver,CO,80202,Other,Latex,Metformin
+Avery Lee,35,Prefer not to say,Seattle,WA,98101,Medication refill,Aspirin,Cetirizine
+Morgan Moore,33,Prefer not to say,San Diego,CA,92101,Eye problem,Peanuts,Metformin
+Casey Wilson,29,Male,San Diego,CA,92101,Headache/Pain,None,Metformin
+Drew Moore,65,Male,Chicago,IL,60601,Headache/Pain,Penicillin,None
+Morgan Hernandez,36,Male,Denver,CO,80202,Medication refill,Ibuprofen,Omeprazole
+Sage Anderson,18,Female,Seattle,WA,98101,Ear/Nose/Throat,Aspirin,Lisinopril
+Cameron Moore,72,Female,San Diego,CA,92101,Ear/Nose/Throat,Peanuts,None
+Quinn Wilson,76,Female,Chicago,IL,60601,Medication refill,Latex,Atorvastatin
+Kendall Martin,48,Male,Chicago,IL,60601,Minor injury,Latex,Cetirizine
+Devin Wilson,41,Female,Boston,MA,02108,Skin problem,Latex,Atorvastatin
+Kendall Jackson,20,Other,San Diego,CA,92101,Minor injury,Ibuprofen,Metformin
+Jamie Smith,63,Female,Denver,CO,80202,Skin problem,Aspirin,Atorvastatin
+Casey Johnson,63,Prefer not to say,Denver,CO,80202,Eye problem,Aspirin,Omeprazole
+Sage Garcia,35,Female,Miami,FL,33130,Medication refill,None,Cetirizine
+Taylor Miller,23,Prefer not to say,Boston,MA,02108,Stomach issue,Aspirin,Atorvastatin
+Jamie Johnson,42,Prefer not to say,Miami,FL,33130,Minor injury,Aspirin,Albuterol
+Jamie Brown,65,Other,Denver,CO,80202,Medication refill,Sulfa,Cetirizine
+Sage Thomas,65,Prefer not to say,Seattle,WA,98101,Stomach issue,None,Metformin
+Riley Jackson,55,Prefer not to say,New York,NY,10001,Headache/Pain,Ibuprofen,Cetirizine
+Rowan Lee,72,Male,Atlanta,GA,30303,Headache/Pain,Sulfa,None
+Cameron Wilson,53,Female,Denver,CO,80202,Stomach issue,Peanuts,Atorvastatin
+Alex Jones,74,Female,Seattle,WA,98101,Ear/Nose/Throat,Aspirin,Albuterol
+Parker Gonzalez,22,Male,Denver,CO,80202,Headache/Pain,Peanuts,Metformin
+Devin Jones,64,Other,Dallas,TX,75201,Fever/Cold,Penicillin,None
+Riley Thomas,84,Other,Chicago,IL,60601,Fever/Cold,Aspirin,Cetirizine
+Avery Lee,54,Other,Miami,FL,33130,Eye problem,Aspirin,None
+Riley Anderson,29,Prefer not to say,Miami,FL,33130,Skin problem,Latex,Atorvastatin
+Reese Garcia,40,Prefer not to say,Atlanta,GA,30303,Skin problem,Penicillin,Omeprazole
+Quinn Thomas,21,Prefer not to say,Seattle,WA,98101,Headache/Pain,Sulfa,Omeprazole
+Casey Lee,29,Female,San Diego,CA,92101,Medication refill,Latex,Metformin
+Devin Williams,34,Prefer not to say,Phoenix,AZ,85004,Medication refill,Sulfa,Albuterol
+Parker Jones,41,Male,San Diego,CA,92101,Minor injury,Aspirin,None
+Casey Martinez,39,Male,San Diego,CA,92101,Ear/Nose/Throat,Peanuts,Atorvastatin
+Jordan Rodriguez,43,Prefer not to say,Atlanta,GA,30303,Fever/Cold,Latex,Atorvastatin
+Kendall Garcia,37,Male,Dallas,TX,75201,Headache/Pain,Aspirin,Atorvastatin
+Alex Williams,23,Prefer not to say,Chicago,IL,60601,Stomach issue,Latex,Albuterol
+Sage Jackson,55,Prefer not to say,Chicago,IL,60601,Stomach issue,Peanuts,Metformin
+Taylor Garcia,74,Other,Dallas,TX,75201,Ear/Nose/Throat,Peanuts,Atorvastatin
+Skyler Hernandez,62,Other,Seattle,WA,98101,Headache/Pain,Latex,Atorvastatin
+Skyler Davis,77,Female,Dallas,TX,75201,Ear/Nose/Throat,Penicillin,None
+Reese Gonzalez,71,Male,Chicago,IL,60601,Headache/Pain,Latex,Albuterol
+Avery Garcia,81,Other,Denver,CO,80202,Medication refill,None,None
+Kendall Anderson,48,Male,Phoenix,AZ,85004,Minor injury,None,Cetirizine
+Cameron Thomas,54,Female,Miami,FL,33130,Stomach issue,Penicillin,Cetirizine
+Drew Lopez,23,Other,Denver,CO,80202,Other,Penicillin,Cetirizine
+Reese Williams,67,Other,San Diego,CA,92101,Fever/Cold,Aspirin,Atorvastatin
+Morgan Jones,30,Other,New York,NY,10001,Headache/Pain,Latex,Cetirizine
+Avery Lee,83,Other,Seattle,WA,98101,Minor injury,None,Lisinopril
+Sage Moore,76,Male,Denver,CO,80202,Eye problem,Peanuts,Atorvastatin
+Riley Gonzalez,56,Prefer not to say,Denver,CO,80202,Other,Latex,Metformin
+Reese Thomas,20,Prefer not to say,New York,NY,10001,Skin problem,Sulfa,Atorvastatin
+Alex Lee,78,Prefer not to say,Atlanta,GA,30303,Ear/Nose/Throat,Ibuprofen,None
+Sage Garcia,66,Male,New York,NY,10001,Ear/Nose/Throat,None,Atorvastatin
+Avery Smith,74,Prefer not to say,Dallas,TX,75201,Stomach issue,Ibuprofen,Lisinopril
+Kendall Lee,78,Female,Phoenix,AZ,85004,Other,Penicillin,Atorvastatin
+Sage Moore,66,Prefer not to say,Denver,CO,80202,Other,Peanuts,Atorvastatin
+Jamie Lee,79,Male,Denver,CO,80202,Other,Peanuts,Lisinopril
+Reese Miller,80,Prefer not to say,Atlanta,GA,30303,Other,Aspirin,Albuterol
+Reese Brown,66,Other,Atlanta,GA,30303,Eye problem,Peanuts,None
+Jordan Lopez,74,Prefer not to say,Atlanta,GA,30303,Ear/Nose/Throat,Penicillin,Omeprazole
+Jamie Jackson,52,Male,San Diego,CA,92101,Ear/Nose/Throat,Penicillin,None
+Quinn Davis,24,Female,San Diego,CA,92101,Medication refill,None,Albuterol
+Alex Jackson,38,Other,Seattle,WA,98101,Medication refill,Ibuprofen,Lisinopril
+Skyler Martinez,25,Female,Atlanta,GA,30303,Ear/Nose/Throat,Latex,Albuterol
+Riley Wilson,40,Female,Chicago,IL,60601,Medication refill,Penicillin,Albuterol
+Taylor Smith,56,Female,Atlanta,GA,30303,Medication refill,Ibuprofen,Atorvastatin
+Sage Jones,82,Other,San Diego,CA,92101,Skin problem,Peanuts,Lisinopril
+Jamie Garcia,19,Prefer not to say,Miami,FL,33130,Ear/Nose/Throat,Penicillin,Atorvastatin
+Emerson Moore,59,Female,Phoenix,AZ,85004,Skin problem,Penicillin,Lisinopril
+Skyler Davis,18,Prefer not to say,Miami,FL,33130,Medication refill,Aspirin,Cetirizine
+Reese Martin,19,Prefer not to say,Denver,CO,80202,Ear/Nose/Throat,None,Albuterol
+Rowan Martinez,38,Other,Dallas,TX,75201,Fever/Cold,Ibuprofen,None
+Parker Lee,46,Male,Atlanta,GA,30303,Eye problem,Sulfa,Albuterol
+Parker Wilson,78,Male,New York,NY,10001,Skin problem,Latex,Metformin
+Parker Williams,32,Female,San Diego,CA,92101,Other,Penicillin,Atorvastatin
+Casey Garcia,59,Other,San Diego,CA,92101,Ear/Nose/Throat,Ibuprofen,Atorvastatin
+Jordan Moore,75,Female,Miami,FL,33130,Other,Sulfa,Metformin
+Taylor Jackson,77,Prefer not to say,New York,NY,10001,Stomach issue,Peanuts,Omeprazole
+Avery Martin,27,Female,Chicago,IL,60601,Skin problem,Latex,None
+Sage Johnson,54,Other,Dallas,TX,75201,Eye problem,Aspirin,Albuterol
+Parker Gonzalez,75,Other,Phoenix,AZ,85004,Other,Penicillin,Albuterol
+Morgan Garcia,68,Male,Denver,CO,80202,Minor injury,Aspirin,None
+Rowan Jackson,72,Other,Atlanta,GA,30303,Ear/Nose/Throat,Sulfa,Cetirizine
+Jamie Miller,32,Female,Seattle,WA,98101,Stomach issue,Latex,Omeprazole
+Quinn Miller,26,Female,Chicago,IL,60601,Medication refill,Latex,Albuterol
+Quinn Johnson,69,Other,Chicago,IL,60601,Ear/Nose/Throat,Aspirin,Omeprazole
+Casey Moore,55,Male,Chicago,IL,60601,Headache/Pain,Latex,Atorvastatin
+Quinn Martinez,36,Male,Denver,CO,80202,Fever/Cold,None,Atorvastatin
+Riley Wilson,81,Female,New York,NY,10001,Stomach issue,Aspirin,Atorvastatin
+Emerson Wilson,37,Prefer not to say,Denver,CO,80202,Other,Sulfa,Lisinopril
+Reese Jones,77,Female,Boston,MA,02108,Stomach issue,Latex,Atorvastatin
+Drew Davis,50,Male,Seattle,WA,98101,Skin problem,Sulfa,Omeprazole
+Jordan Jackson,42,Female,Denver,CO,80202,Minor injury,Aspirin,None
+Devin Jackson,45,Other,Boston,MA,02108,Headache/Pain,Peanuts,None
+Avery Brown,79,Male,Boston,MA,02108,Ear/Nose/Throat,Sulfa,Lisinopril
+Skyler Martinez,66,Other,San Diego,CA,92101,Headache/Pain,Peanuts,Cetirizine

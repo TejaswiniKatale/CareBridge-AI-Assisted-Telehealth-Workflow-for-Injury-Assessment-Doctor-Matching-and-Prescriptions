@@ -1,0 +1,129 @@
+doctor_id,name,specialty_group,years_experience,price,rating,active_status,language,video_available
+D-1001,Dr. Ethan Hill,General Physician,26,50,4.2,true,English,true
+D-1002,Dr. Helen Kim,General Physician,21,60,4.0,false,Spanish,true
+D-1003,Dr. Sarah Wu,General Physician,25,80,4.7,true,Mandarin,true
+D-1004,Dr. Aarav Price,General Physician,25,60,4.3,true,Hindi,false
+D-1005,Dr. Daniel Ahmed,General Physician,14,75,4.3,false,Arabic,false
+D-1006,Dr. Sofia Kim,General Physician,20,50,4.8,true,French,true
+D-1007,Dr. Camila Martinez,General Physician,24,45,4.8,true,Korean,false
+D-1008,Dr. Mei Thomas,General Physician,23,95,4.4,true,English,true
+D-1009,Dr. Camila Green,General Physician,23,40,4.5,true,Spanish,true
+D-1010,Dr. Sarah Miller,General Physician,24,55,4.8,true,Mandarin,false
+D-1011,Dr. Omar Wilson,General Physician,11,35,4.2,true,Hindi,true
+D-1012,Dr. Victor Thomas,General Physician,7,50,4.1,true,Arabic,true
+D-1013,Dr. Riya Wilson,General Physician,14,45,5.0,true,French,true
+D-1014,Dr. Ethan Chen,General Physician,23,40,4.8,true,Korean,true
+D-1015,Dr. Maya Walker,General Physician,11,70,4.9,false,English,true
+D-1016,Dr. Mei Garcia,General Physician,6,50,4.4,true,Spanish,true
+D-1017,Dr. Kenji Hassan,Urgent Care,23,50,4.8,true,Mandarin,true
+D-1018,Dr. Hana Young,Urgent Care,27,70,4.9,true,Hindi,false
+D-1019,Dr. Robert Johnson,Urgent Care,10,30,4.2,true,Arabic,true
+D-1020,Dr. Camila Young,Urgent Care,27,40,4.1,true,French,true
+D-1021,Dr. Andre Lopez,Urgent Care,9,70,4.8,true,Korean,true
+D-1022,Dr. Robert Anderson,Urgent Care,19,65,4.1,true,English,true
+D-1023,Dr. Leila Scott,Urgent Care,10,30,4.1,true,Spanish,true
+D-1024,Dr. Priya Nair,Urgent Care,19,45,4.3,true,Mandarin,true
+D-1025,Dr. Nathan King,Urgent Care,18,45,4.8,true,Hindi,false
+D-1026,Dr. Zara Ahmed,Urgent Care,16,60,4.5,true,Arabic,true
+D-1027,Dr. Priya Hassan,Urgent Care,10,45,4.2,true,French,true
+D-1028,Dr. Liam Nair,Urgent Care,17,90,4.9,true,Korean,true
+D-1029,Dr. Aarav Kim,Urgent Care,27,95,4.2,true,English,true
+D-1030,Dr. Arjun Price,Urgent Care,15,30,5.0,true,Spanish,true
+D-1031,Dr. Sarah Clark,Urgent Care,7,45,4.3,true,Mandarin,true
+D-1032,Dr. Arjun Scott,Urgent Care,18,70,4.9,true,Hindi,false
+D-1033,Dr. Isabella Nair,Dermatology,22,35,4.7,true,Arabic,true
+D-1034,Dr. Andre Martinez,Dermatology,22,35,4.4,true,French,true
+D-1035,Dr. Omar Flores,Dermatology,11,60,4.1,true,Korean,true
+D-1036,Dr. Camila Rao,Dermatology,17,75,5.0,true,English,true
+D-1037,Dr. Marcus Ortega,Dermatology,14,35,4.9,true,Spanish,true
+D-1038,Dr. Nina Adams,Dermatology,28,80,4.5,true,Mandarin,false
+D-1039,Dr. Fatima Patel,Dermatology,6,35,4.7,true,Hindi,true
+D-1040,Dr. Priya Haddad,Dermatology,24,80,4.9,true,Arabic,false
+D-1041,Dr. Zara Singh,Dermatology,4,30,4.3,true,French,true
+D-1042,Dr. Sarah Lopez,Dermatology,20,30,4.1,true,Korean,false
+D-1043,Dr. Robert Scott,Dermatology,20,40,4.4,false,English,true
+D-1044,Dr. Anika Ahmed,Dermatology,9,80,4.2,false,Spanish,true
+D-1045,Dr. Liam Price,Dermatology,28,90,4.2,true,Mandarin,true
+D-1046,Dr. Yara Flores,Dermatology,11,40,4.8,false,Hindi,true
+D-1047,Dr. Javier Thomas,Dermatology,14,50,4.8,true,Arabic,true
+D-1048,Dr. Victor Garcia,Dermatology,11,95,4.1,true,French,true
+D-1049,Dr. Helen Garcia,Ophthalmology,3,35,4.9,true,Korean,false
+D-1050,Dr. Zara Ahmed,Ophthalmology,26,90,4.3,true,English,true
+D-1051,Dr. Javier Patel,Ophthalmology,4,85,4.4,true,Spanish,true
+D-1052,Dr. Priya Adams,Ophthalmology,13,80,4.8,true,Mandarin,true
+D-1053,Dr. Yara Nguyen,Ophthalmology,15,85,4.3,true,Hindi,true
+D-1054,Dr. Isabella Adams,Ophthalmology,21,50,4.4,true,Arabic,true
+D-1055,Dr. Riya Green,Ophthalmology,23,55,4.5,true,French,true
+D-1056,Dr. Hana Kim,Ophthalmology,12,70,4.7,true,Korean,true
+D-1057,Dr. Liam Johnson,Ophthalmology,10,90,4.2,false,English,true
+D-1058,Dr. Camila Thomas,Ophthalmology,16,80,4.6,true,Spanish,true
+D-1059,Dr. Grace Rao,Ophthalmology,27,95,4.8,false,Mandarin,false
+D-1060,Dr. Amara Thomas,Ophthalmology,4,70,4.2,true,Hindi,true
+D-1061,Dr. Amara Allen,Ophthalmology,22,55,5.0,true,Arabic,true
+D-1062,Dr. Noah Price,Ophthalmology,26,95,4.5,true,French,true
+D-1063,Dr. Amara Clark,Ophthalmology,23,45,4.3,false,Korean,true
+D-1064,Dr. Omar Young,Ophthalmology,5,40,4.2,true,English,true
+D-1065,Dr. Yara Khan,ENT,13,70,4.5,false,Spanish,true
+D-1066,Dr. Riya Hill,ENT,27,75,4.4,false,Mandarin,true
+D-1067,Dr. Yara Young,ENT,26,85,4.5,true,Hindi,true
+D-1068,Dr. Zara Clark,ENT,3,60,4.3,true,Arabic,false
+D-1069,Dr. Maya Ortega,ENT,22,70,4.0,true,French,true
+D-1070,Dr. Fatima Thomas,ENT,8,30,4.3,true,Korean,true
+D-1071,Dr. Sofia Singh,ENT,27,95,4.4,true,English,true
+D-1072,Dr. Arjun Ahmed,ENT,10,80,4.1,true,Spanish,false
+D-1073,Dr. Liam Wu,ENT,3,75,4.2,true,Mandarin,true
+D-1074,Dr. Maya Patel,ENT,27,55,4.2,true,Hindi,true
+D-1075,Dr. Nina Hassan,ENT,21,30,4.9,true,Arabic,true
+D-1076,Dr. Javier Nair,ENT,21,85,4.8,true,French,true
+D-1077,Dr. Ethan King,ENT,28,30,4.3,true,Korean,true
+D-1078,Dr. Priya Rao,ENT,16,95,4.5,true,English,true
+D-1079,Dr. Maya Chen,ENT,16,40,4.7,true,Spanish,true
+D-1080,Dr. Helen Moore,ENT,17,60,4.8,true,Mandarin,true
+D-1081,Dr. Chloe Singh,Gastroenterology,17,45,4.8,true,Hindi,false
+D-1082,Dr. Omar Okafor,Gastroenterology,18,45,4.4,true,Arabic,true
+D-1083,Dr. Mei Allen,Gastroenterology,3,70,4.9,false,French,true
+D-1084,Dr. Liam Moore,Gastroenterology,23,85,4.5,true,Korean,true
+D-1085,Dr. Liam Johnson,Gastroenterology,24,75,4.4,true,English,true
+D-1086,Dr. Sarah Garcia,Gastroenterology,14,85,4.5,true,Spanish,true
+D-1087,Dr. Omar Bennett,Gastroenterology,26,70,5.0,true,Mandarin,true
+D-1088,Dr. Mei Scott,Gastroenterology,27,70,4.6,true,Hindi,true
+D-1089,Dr. Isabella Johnson,Gastroenterology,3,85,4.5,true,Arabic,true
+D-1090,Dr. Fatima Clark,Gastroenterology,6,95,4.0,true,French,true
+D-1091,Dr. Arjun Patel,Gastroenterology,18,35,4.8,true,Korean,true
+D-1092,Dr. Arjun Chen,Gastroenterology,7,90,4.6,true,English,true
+D-1093,Dr. Yara Green,Gastroenterology,22,90,4.6,true,Spanish,true
+D-1094,Dr. Nina Scott,Gastroenterology,16,50,4.6,false,Mandarin,true
+D-1095,Dr. Kai Patel,Gastroenterology,24,35,4.2,true,Hindi,false
+D-1096,Dr. Noah Green,Gastroenterology,18,50,4.0,true,Arabic,true
+D-1097,Dr. Camila Miller,Pain/Headache,11,90,4.8,true,French,false
+D-1098,Dr. Leila Chen,Pain/Headache,11,95,4.1,false,Korean,true
+D-1099,Dr. Nathan Coleman,Pain/Headache,17,35,4.5,true,English,true
+D-1100,Dr. Ibrahim Anderson,Pain/Headache,5,75,4.0,true,Spanish,true
+D-1101,Dr. Chloe Miller,Pain/Headache,24,95,4.9,true,Mandarin,true
+D-1102,Dr. Mei King,Pain/Headache,4,90,4.8,true,Hindi,true
+D-1103,Dr. Riya Lopez,Pain/Headache,23,95,4.5,false,Arabic,true
+D-1104,Dr. Daniel Price,Pain/Headache,13,60,4.7,true,French,true
+D-1105,Dr. Anika Thomas,Pain/Headache,5,55,4.3,false,Korean,true
+D-1106,Dr. Aarav Young,Pain/Headache,17,60,4.1,true,English,true
+D-1107,Dr. Arjun Haddad,Pain/Headache,11,70,4.1,true,Spanish,false
+D-1108,Dr. Andre Flores,Pain/Headache,25,40,4.3,false,Mandarin,true
+D-1109,Dr. Ethan Thomas,Pain/Headache,6,80,4.8,true,Hindi,true
+D-1110,Dr. Yara Moore,Pain/Headache,18,45,4.5,true,Arabic,true
+D-1111,Dr. Fatima Nair,Pain/Headache,11,90,4.8,true,French,false
+D-1112,Dr. Nina Scott,Pain/Headache,21,80,4.5,true,Korean,true
+D-1113,Dr. Helen Davis,Medication Refill,17,55,4.9,true,English,true
+D-1114,Dr. Yara Martinez,Medication Refill,13,85,4.5,true,Spanish,true
+D-1115,Dr. Grace Clark,Medication Refill,4,40,4.5,true,Mandarin,true
+D-1116,Dr. Daniel Walker,Medication Refill,17,30,4.7,true,Hindi,true
+D-1117,Dr. Marcus Garcia,Medication Refill,22,85,4.4,false,Arabic,true
+D-1118,Dr. Helen Davis,Medication Refill,13,80,4.7,true,French,false
+D-1119,Dr. Nadia Miller,Medication Refill,26,35,4.4,false,Korean,false
+D-1120,Dr. Nina Hill,Medication Refill,4,55,4.8,true,English,false
+D-1121,Dr. Amara Khan,Medication Refill,21,80,4.8,true,Spanish,true
+D-1122,Dr. Samira Flores,Medication Refill,18,75,4.1,true,Mandarin,true
+D-1123,Dr. Aarav Thomas,Medication Refill,12,80,4.5,false,Hindi,true
+D-1124,Dr. Zara Patel,Medication Refill,17,95,4.3,true,Arabic,true
+D-1125,Dr. Nathan Ahmed,Medication Refill,21,50,5.0,true,French,false
+D-1126,Dr. Arjun Green,Medication Refill,26,65,4.8,true,Korean,true
+D-1127,Dr. Leila Wu,Medication Refill,22,50,4.7,true,English,false
+D-1128,Dr. Anika Johnson,Medication Refill,28,65,4.0,true,Spanish,true
